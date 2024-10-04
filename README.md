@@ -11,7 +11,28 @@
   
 <h3>🌟 Working Background</h3>
 <p>I've worked in Data for 2+ years, focusing on Data Warehousing and Business Intelligence in the Oil & Gas and Banking domains. My journey has taken me to different roles in the BI stack and I'm always excited about exploring something "cool" during the data journey.</p>
-
+<h3>🏆 Previous Projects</h3>
+    <table width="100%" cellspacing="0" cellpadding="10" border="1" style="border-collapse: collapse;">
+        <tr bgcolor="#f0f0f0">
+            <th width="33%"> BI System for BSR</th>
+            <th width="33%">Report System Migration for LPBank</th>
+            <th width="33%">DWH Implementation for PVOil</th>
+        </tr>
+        <tr>
+            <td valign="top">
+                <h4><font color="#3366cc">Data Analytics Platform</font></h4>
+                <p>Analysis and design BI Dashboard based on SAP ERP data, and SAP BW/4HANA</p>
+            </td>
+            <td valign="top">
+                <h4><font color="#3366cc">Core-banking Migration</font></h4>
+                <p>Migrate 30 reports from FLEXCURE core to Temenos T24 core</p>
+            </td>
+            <td valign="top">
+                <h4><font color="#3366cc">Data Warehousing</font></h4>
+                <p>Designed and implemented data warehouse models based on Microsoft SQL Server and Microsoft Integration Services</p>
+            </td>
+        </tr>
+    </table>
 <h3>🛠️ Skills</h3>
 <div class="skills">
     <div class="skill">💻 Programming Language: PL/SQL, Python, C/C++, C#</div>
