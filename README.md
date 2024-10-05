@@ -8,7 +8,8 @@
     <li>🎓 Currently M.S. student in Business Information Systems, Vietnamese-German University 
 </ul>
 </blockquote>
-  
+<h3>🧐 Research interests</h3>
+<pre align="center">"🌱 ESG Data Management" ⭐ "Sustainable management in Data Governance and Analytics 🌏"</pre> 
 <h3>🌟 Working Background</h3>
 <p>I've worked in Data for 2+ years, focusing on Data Warehousing and Business Intelligence in the Oil & Gas and Banking domains. My journey has taken me to different roles in the BI stack and I'm always excited about exploring something "cool" during the data journey.</p>
 <h3>🏆 Previous Projects</h3>
