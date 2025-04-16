@@ -42,6 +42,9 @@
     <!-- Add more skills as needed -->
 </div>
 
+## 📊 GitHub Stats
+![gnas20's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnas20&show_icons=true&theme=radical)
+
 <h3>📫 Let's Connect!</h3>
 <ul>
     <li>📧 Email: <a href="mailto:hoangsang203@gmail.com">hoangsang203@gmail.com</a></li>
